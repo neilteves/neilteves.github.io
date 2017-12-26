@@ -2,12 +2,6 @@
 <html lang="en">
 {% include head.html %}
 <body>
-    <section class="about-header">
-      <div class="author-image-container">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
-      </div>
-      <p class="subtitle">{{site.about-author}}</p>
-    </section>
   {{ content }}
   {% include javascripts.html %}
   {% include analytics.html %}
