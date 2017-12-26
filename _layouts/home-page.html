@@ -1,18 +1,9 @@
 ---
 layout: default
 ---
-  {% include header.html %}
-<div class="small-wrapper">
-  <div class="about-container">
-    <section class="about-header">
-      <div class="author-image-container">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
-      </div>
-      <p class="subtitle">{{site.about-author}}</p>
-    </section>
-  </div>
-</div>
 <div class="flex-container">
+  {% include header.html %}
+  <div class="content wrapper">
     {{ content }}
   {% include search.html %}
   {% include pagination.html %}
