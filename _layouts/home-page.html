@@ -3,13 +3,10 @@ layout: default
 ---
 <div class="flex-container">
   {% include header.html %}
-  <div class="content wrapper">
-    <section class="about-header">
       <div class="author-image-container">
         <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
       </div>
       <p class="subtitle">{{site.about-author}}</p>
-    </section>
     {{ content }}
   {% include search.html %}
   {% include pagination.html %}
