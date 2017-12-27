@@ -10,8 +10,6 @@ author: # Add name author (optional)
 
 A 2D problem-solving / platformer game centered around a grumpy lump of “play dough” who wants to be happy. The play dough can shift into three different shapes: a ball that’s able to roll side to side, an invulnerable block that concentrates his mass so he can drop down, and a longer stick shape that lets the play dough climb up to higher platforms or form bridges across gaps.
 
-# Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Playto][playto-site] website for more info.
 
-# [jekyll-docs]: https://jekyllrb.com/docs/home
-# [jekyll-gh]:   https://github.com/jekyll/jekyll
-# [jekyll-talk]: https://talk.jekyllrb.com/
+[playto-site]: https://dreamingbento.github.io
