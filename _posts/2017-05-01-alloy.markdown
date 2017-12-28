@@ -1,0 +1,19 @@
+---
+layout: post
+title: Alloy
+date: 2017-05-01 13:32:20 +0300
+description: A web application built for the University of Hawaii: Manoa students.
+img: post-alloy.jpg # Add image post (optional)
+tags: [WebApp, Website, Meteor, Semantic UI, JavaScript, MongoDB]
+author: # Add name author (optional)
+---
+
+Alloy is a web application built for the University of Hawaii: Manoa students.  The application is almost like a social media site where users are able to sign in with their UH Manoa logon and interact with other users.  The main goal of Alloy is to create a space that lets students share projects they are working on and find other students who want to work on their projects.  Another goal Alloy hopes to achieve is to connect students of different departments together.  To break down the walls that separate these different ideas and meld them together so, through Alloy, something new and profound can be created from many different collaborators with varying knowledge and skills.
+
+<img class="ui large centered image" src="https://neilnthings.github.io/images/logged-out-home.png">
+
+Click to find more information about [Alloy][alloy-site]!
+
+<img class="ui huge centered image" src="https://neilnthings.github.io/images/project-search-final.png">
+
+[alloy-site]: https://alloyteams.github.io/
