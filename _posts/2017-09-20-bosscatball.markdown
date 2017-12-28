@@ -8,4 +8,4 @@ tags: [Videogame, Game, 3D-Pinball, Pinball, Unity3D, C#]
 author: # Add name author (optional)
 ---
 
-A 3D pinball game where players must beat up cat boss's in order to complete levels.
+A 3D pinball game where players must beat up Boss Cats in order to complete levels.  Each level is designed around a certain Boss Cat with unique themes and abilities.  Players must continually hit the Boss Cats until their health is gone but hitting them alone will not win every battle.  Each level will have different power ups to aid in the players fight against these meanies.
