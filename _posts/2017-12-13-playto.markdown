@@ -8,7 +8,7 @@ tags: [Videogame, Game, 2D-Platformer, Platformer, Unity3D, C#]
 author: # Add name author (optional)
 ---
 
-A 2D problem-solving / platformer game centered around a grumpy lump of “play dough” who wants to be happy. The play dough can shift into three different shapes: a ball that’s able to roll side to side, an invulnerable block that concentrates his mass so he can drop down, and a longer stick shape that lets the play dough climb up to higher platforms or form bridges across gaps.
+A 2D problem-solving / platformer game centered around a grumpy lump of playdough who just wants to be happy. The playdough can shift into three different shapes: a ball that’s able to roll side to side, an invulnerable block that concentrates its mass so it can drop down, and a longer stick shape that allows the playdough to climb up to higher platforms or form bridges across gaps.
 
 Check out the [Playto][playto-site] website for more info.
 
