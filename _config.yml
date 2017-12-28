@@ -21,14 +21,14 @@ linkedin: # Add your Linkedin handle
 github: neilnthings # Add your Github handle
 twitter: # '@artemsheludko_' # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+instagram: '@neilnthings_' # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: neilnthings # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
