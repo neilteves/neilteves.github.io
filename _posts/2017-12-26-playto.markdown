@@ -4,7 +4,7 @@ title: Playto
 date: 2017-12-13 13:32:20 +0300
 description: A 2D problem-solving / platformer videogame.
 img: post-playto.jpg # Add image post (optional)
-tags: [Videogame, 2D-Platformer, Platformer, Game]
+tags: [Videogame, Game, 2D-Platformer, Platformer, Unity3D, C#]
 author: # Add name author (optional)
 ---
 
