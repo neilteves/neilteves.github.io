@@ -21,4 +21,4 @@ Click to find more information about [Alloy][alloy-site]!
 <img class="ui huge centered image" src="https://neilnthings.github.io/images/project-search-final.png">
 
 [alloy-site]: https://alloyteams.github.io/
-[alloy-updates]: https://neilnthings.github.io/essays/Release_Notes_Alloy.html/
+[alloy-updates]: https://neilnthings.github.io/essays/Release_Notes_Alloy.html
