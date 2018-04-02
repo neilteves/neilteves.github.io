@@ -9,3 +9,9 @@ author: # Add name author (optional)
 ---
 
 A 3D pinball game where players must beat up the Boss Cats in order to complete levels.  Each level is designed around a certain Boss Cat with unique themes and abilities.  Players must continually hit the Boss Cats until their health is gone but hitting them alone will not win every battle.  Each level will have different power ups to aid in the player's fight against these meanies.
+
+Boss Cat Ball is developed with Unity3D and C#.  I did all the programming behind the game and my associate Kaylan Young did the majority of the art.
+
+Check out the [demo][demo].
+
+[demo]: https://www.youtube.com/watch?v=AXvjTTzjscE
