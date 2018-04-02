@@ -12,4 +12,6 @@ A 2D problem-solving / platformer game centered around a grumpy lump of playdoug
 
 Check out the [Playto][playto-site] website for more info.
 
+<iframe width="1008" height="567" src="https://www.youtube.com/embed/3oDPTKcFKlY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 [playto-site]: https://dreamingbento.github.io
