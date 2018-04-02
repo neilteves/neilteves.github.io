@@ -12,4 +12,4 @@ A 3D pinball game where players must beat up the Boss Cats in order to complete 
 
 Boss Cat Ball is developed with Unity3D and C#.  I did all the programming behind the game and my associate Kaylan Young did the majority of the art.
 
-<iframe width="100%" src="https://www.youtube.com/watch?v=AXvjTTzjscE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/AXvjTTzjscE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
