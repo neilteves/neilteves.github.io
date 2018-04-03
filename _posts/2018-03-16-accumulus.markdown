@@ -12,6 +12,6 @@ A 2D arcade game where you play as a fluffy little cloud collecting stars and he
 
 This is my first attempt at publishing a mobile game.  All the programming and art was created by me.  The game engine I used was Unity3D.
 
-Check out the [Accumulus][accumulus-playstore] at the Google Playstore.
+Check out [Accumulus][accumulus-playstore] at the Google Playstore.
 
 [accumulus-playstore]: https://play.google.com/store/apps/details?id=com.VanillaBearStudious.Accumulus
